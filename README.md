@@ -1,2 +1,0 @@
-# theblackprompt-website
-New site 
